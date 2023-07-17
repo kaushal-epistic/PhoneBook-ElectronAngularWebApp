@@ -66,5 +66,6 @@ Steps to run the project :
 	
 After running above two commands, it will automatically open the electron desktop app.
 
+View our Case Studies here https://bit.ly/44JIa9i
 Contact us for Angular Electron App Development. https://www.epistic.net/contactus 
 
